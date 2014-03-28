@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="numerous.numenera.app.MainMenu"
+    android:background="#ffd25b">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="THIS IS A MENU"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal|top"
+        android:background="#fcfffd"
+        android:textColor="#3b28ff"
+        android:textSize="20dp" />
+</FrameLayout>

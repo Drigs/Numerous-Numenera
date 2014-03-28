@@ -148,4 +148,10 @@ public class ThingListFragment extends ListFragment {
 
         mActivatedPosition = position;
     }
+
+    /**
+     * Created by Drigs on 3/27/14.
+     */
+    public static class Title {
+    }
 }
